@@ -1,7 +1,7 @@
 baseURL = "https://blog.gao-chuan.com"
 theme = "hugo-bearblog"
 
-title = "高川 Blog"
+title = "高川 | Blog"
 author = "高川"
 copyright = "Copyright © 2026, 高川."
 languageCode = "en-US"
@@ -18,7 +18,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   description = "高川的个人博客"
   favicon = "images/favicon.png"
   images = ["images/share.png"]
-  title = "高川 Blog"
+  title = "高川 | Blog"
   hideMadeWithLine = true
 
 [markup]
