@@ -16,8 +16,8 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
   description = "尝试理解一切；有时候写下来。"
-  favicon = "images/favicon.png"
-  images = ["images/share.png"]
+  favicon = "images/favicon.jpg"
+  images = ["images/favicon.jpg"]
   title = "高川 | Blog"
   hideMadeWithLine = true
 
