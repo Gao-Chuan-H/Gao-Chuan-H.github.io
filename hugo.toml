@@ -15,7 +15,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 
 [params]
-  description = "高川的个人博客"
+  description = "尝试理解一切；有时候写下来。"
   favicon = "images/favicon.png"
   images = ["images/share.png"]
   title = "高川 | Blog"
