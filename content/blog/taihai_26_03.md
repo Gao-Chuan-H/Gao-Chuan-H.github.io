@@ -80,16 +80,16 @@ tags = ["台海", "地缘政治", "中美关系",]
 
 > ⚠ 标注"待核实"的条目表示相关事件发生于本报告撰写期间，原始文件尚未完整公开，引用链接指向最佳可查来源。
 
-1. RTX与美国国防部签署导弹增产框架协议（2026年2月）⚠待核实　[国防部合同公告数据库](https://www.defense.gov/News/Contracts/)
+1. RTX与美国国防部签署导弹增产框架协议（2026年2月）　[Raytheon to Bolster Tomahawk and SM-6 Production in Critical Munition Deal, USNI News](https://news.usni.org/2026/02/04/raytheon-to-bolster-tomahawk-and-sm-6-production-in-critical-munition-deal)
 2. 美国国防部采购预算辩护书，导弹生产提前期相关记录　[comptroller.defense.gov](https://comptroller.defense.gov/Budget-Materials/)
-3. SM-6生产爬坡计划相关分析，Breaking Defense ⚠具体文章待核实　[breakingdefense.com](https://breakingdefense.com)
+3. SM-6生产爬坡计划相关分析，Breaking Defense　[RTX to ramp up production of five weapons in new deal with Pentagon](https://breakingdefense.com/2026/02/rtx-to-ramp-up-production-of-five-weapons-in-new-deal-with-pentagon/)
 4. 李强作的2026年政府工作报告（摘登），新华社，2026年3月5日　[news.cn](https://www.news.cn/politics/20260305/2dec3fbdfc16487592038bd047bb2aaa/c.html)
 5. 中国2026年国防预算数据，SIPRI军费数据库　[sipri.org](https://www.sipri.org/databases/milex)
-6. 福建省国动办《福建省人民防空防护设备管理若干规定》（闽国动规〔2026〕1号）⚠需通过地方政府网站核实　[gdb.fujian.gov.cn](http://gdb.fujian.gov.cn)
+6. 福建省国动办《福建省人民防空防护设备管理若干规定》（闽国动规〔2026〕1号）[福建省国防动员办公室关于印发《福建省人民防空防护设备管理若干规定》的通知](https://gdb.fujian.gov.cn/xxgk/zfxxgk/zfxxgkml/gfxwj/xxyx/202602/t20260203_7088360.htm)
 7. RAND Corporation，台湾防御能力相关研究　[rand.org](https://www.rand.org/topics/taiwan.html)
-8. CSIS，中国对台行动场景评估　[csis.org](https://www.csis.org/programs/china-power-project)
-9. ASPI，弹药生产与印太地区安全评估　[aspi.org.au](https://www.aspi.org.au/program/defence-strategy-and-national-security)
-10. 俄罗斯被制裁后SWIFT剔除机制及对中国适用性分析，美联储国际金融讨论文件　[federalreserve.gov](https://www.federalreserve.gov/pubs/ifdp/)
-11. 中国半导体自主化战略与十四五/十五五规划，半导体行业协会（SIA）分析　[semiconductors.org](https://www.semiconductors.org/china/)
+8. CSIS，中国对台行动场景评估　[csis.org](https://www.csis.org/analysis/first-battle-next-war-wargaming-chinese-invasion-taiwan)
+9. ASPI，弹药生产与印太地区安全评估　[aspi.org.au](https://www.aspi.org.au/program/defence-strategy-and-national-security-program)
+10. 俄罗斯被制裁后SWIFT剔除机制及对中国适用性分析　[Sanctions, SWIFT, and China's Cross-Border Interbank Payments System, CSIS](https://www.csis.org/analysis/sanctions-swift-and-chinas-cross-border-interbank-payments-system)
+11. 中国半导体自主化战略与十四五/十五五规划，半导体行业协会（SIA）分析　[semiconductors.org](https://www.semiconductors.org/wp-content/uploads/2021/07/Taking-Stock-of-China%E2%80%99s-Semiconductor-Industry_final.pdf)
 12. 马六甲海峡与中国能源安全，美国能源信息署（EIA）　[eia.gov](https://www.eia.gov/international/analysis/special-topics/World_Oil_Transit_Chokepoints)
 13. 中国战略石油储备估算，国际能源署（IEA）　[iea.org](https://www.iea.org/countries/china)
