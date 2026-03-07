@@ -1,0 +1,29 @@
+baseURL = "https://blog.gao-chuan.com"
+theme = "hugo-bearblog"
+
+title = "高川 Blog"
+author = "高川"
+copyright = "Copyright © 2026, 高川."
+languageCode = "en-US"
+
+enableRobotsTXT = true
+
+disableKinds = ["taxonomy"]
+ignoreErrors = ["error-disable-taxonomy"]
+[permalinks]
+  blog = "/:slug/"
+  tags = "/blog/:slug"
+
+[params]
+  description = "高川的个人博客"
+  favicon = "images/favicon.png"
+  images = ["images/share.png"]
+  title = "高川 Blog"
+  hideMadeWithLine = true
+
+[markup]
+  [markup.highlight]
+    style = "friendly"
+    lineNos = true
+    lineNumbersInTable = false
+    codeFences = true
