@@ -78,8 +78,6 @@ tags = ["台海", "地缘政治", "中美关系",]
 
 ## 引用与来源说明
 
-> ⚠ 标注"待核实"的条目表示相关事件发生于本报告撰写期间，原始文件尚未完整公开，引用链接指向最佳可查来源。
-
 1. RTX与美国国防部签署导弹增产框架协议（2026年2月）　[Raytheon to Bolster Tomahawk and SM-6 Production in Critical Munition Deal, USNI News](https://news.usni.org/2026/02/04/raytheon-to-bolster-tomahawk-and-sm-6-production-in-critical-munition-deal)
 2. 美国国防部采购预算辩护书，导弹生产提前期相关记录　[comptroller.defense.gov](https://comptroller.defense.gov/Budget-Materials/)
 3. SM-6生产爬坡计划相关分析，Breaking Defense　[RTX to ramp up production of five weapons in new deal with Pentagon](https://breakingdefense.com/2026/02/rtx-to-ramp-up-production-of-five-weapons-in-new-deal-with-pentagon/)
